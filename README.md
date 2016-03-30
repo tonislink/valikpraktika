@@ -1,2 +1,0 @@
-# valikpraktika
-HKI5036
